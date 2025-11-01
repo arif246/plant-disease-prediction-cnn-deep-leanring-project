@@ -22,12 +22,18 @@ Train on a larger, more diverse dataset
 Tune hyperparameters for better accuracy
 
 ⚙️ Technologies Used
-Python
-TensorFlow / Keras – model building and training
-NumPy, Pandas – data processing
-Matplotlib – visualization
-Streamlit – for the web interface (optional)
-Jupyter Notebook – model development and experiments
+
+-Python
+
+-TensorFlow / Keras – model building and training
+
+-NumPy, Pandas – data processing
+
+-Matplotlib – visualization
+
+-Streamlit – for the web interface (optional)
+
+-Jupyter Notebook – model development and experiments
 
 📈 Results
 
@@ -36,6 +42,7 @@ The trained CNN model achieved:
 Validation Accuracy: 85.6%
 
 Loss: 0.6273
+
 
 
 
