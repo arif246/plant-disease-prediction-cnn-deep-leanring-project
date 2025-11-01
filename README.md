@@ -32,5 +32,7 @@ Jupyter Notebook – model development and experiments
 📈 Results
 The trained CNN model achieved:
 Validation Accuracy: 85.6%
+
 Loss: 0.6273
+
 
