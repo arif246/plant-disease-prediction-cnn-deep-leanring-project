@@ -1,4 +1,4 @@
-### 🌿 Plant Disease Prediction using CNN & Deep Learning
+## 🌿 Plant Disease Prediction using CNN & Deep Learning
 
 A deep learning-based project to automatically detect and classify plant diseases from leaf images using Convolutional Neural Networks (CNN).
 Achieved 85.6% validation accuracy, making it a reliable tool for early plant disease detection.
@@ -50,6 +50,7 @@ The trained CNN model achieved:
 -Validation Accuracy: 85.6%
 
 -Loss: 0.6273
+
 
 
 
